@@ -20,8 +20,6 @@ Landing page of our project.
  ![image](https://github.com/RutwikPatel13/Cataract_Detection_with_XAI/assets/65476005/f596417d-76f5-4973-92b5-b0de78aab9bf)
 This part of the website describes the motivation and objective of our project.
 
- ![image](https://github.com/RutwikPatel13/Cataract_Detection_with_XAI/assets/65476005/372c81e8-bff6-4626-8198-99572f0a253a)
-
 ![image](https://github.com/RutwikPatel13/Cataract_Detection_with_XAI/assets/65476005/f39a1add-9b07-495e-b181-f583e7839677)
 Fundus Eye image as input (Cataract).
 
