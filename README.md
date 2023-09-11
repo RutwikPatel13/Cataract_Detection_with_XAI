@@ -2,7 +2,7 @@
 
 ## Table of Content:
 
-- [About The App](#about-the-app)
+- [About The Web-App](#about-the-web-app)
 - [Interface Design](#interface-design)
 - [Technologies](#technologies)
 - [Setup](#setup)
@@ -10,7 +10,7 @@
 - [Credits](#credits)
 
 
-## About The App
+## About The Web-App
 Cataract Detection With XAI(Explainable AI) is an Web-app for detecting if a patient has a cataract eye using fundus images with key feature of XAI that explains why a eye has a cataract or why a eye doesnot have cataract by highlighting the region of the eye.
 
 ## Interface Design
