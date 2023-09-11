@@ -43,6 +43,6 @@ The Project is Completed...
 
 ## Credits
 List of contriubutors:
-- [Prof. Harshal Dalvi]
-- [Sanchit Hegde]
-- [Harsh Shah]
+- Prof. Harshal Dalvi
+- Sanchit Hegde
+- Harsh Shah
