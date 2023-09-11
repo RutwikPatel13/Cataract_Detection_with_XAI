@@ -12,7 +12,7 @@ st.title(":blue[What is VGG-19?]")
 st.markdown("First and foremost, let us establish ImageNet. It is an image database with 14,197,122 images arranged in the WordNet hierarchy. This is a project designed to assist image and vision researchers, students, and others.")
 st.markdown("The VGG-19 convolutional neural network has been trained on over a million images from the ImageNet database. The network has 19 layers and can classify images into 1000 object categories, including a keyboard, mouse, pencil, and a variety of animals. As a result, the network has learned detailed feature representations for a diverse set of images.")
 
-image = Image.open('C://Users//hp//Pyhon codes in VS Code//FYP//vgg19.jpg')
+image = Image.open('C://Users//Rutwik//Desktop//FYP Research paper//FYP Implementation//FYP//FYP//vgg19.jpg')
 st.image(image, caption="Architecture of VGG-19")
 
 st.markdown(

@@ -17,3 +17,4 @@ st.markdown("Sanchit Hegde- 60003190046")
 st.markdown("**:orange[Project Guide-]** Prof. Harshal Dalvi")
 
 
+# C:\Users\hp\Pyhon codes in VS Code\FYP\multipage\1_Home.py
