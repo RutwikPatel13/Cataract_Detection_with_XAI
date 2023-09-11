@@ -3,7 +3,7 @@
 ## Table of Content:
 
 - [About The App](#about-the-app)
-- [Interface Design](#screenshots)
+- [Interface Design](#interface-design)
 - [Technologies](#technologies)
 - [Setup](#setup)
 - [Status](#status)
