@@ -3,10 +3,10 @@ numpy
 pandas
 opencv-python-headless
 Pillow
+--extra-index-url https://download.pytorch.org/whl/cpu
 torch
 torchvision
-tensorflow
-keras
+tensorflow-cpu
 scikit-image
 scikit-learn
 matplotlib
