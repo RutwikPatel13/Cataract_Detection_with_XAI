@@ -2,3 +2,40 @@
 **/final dataset/cataract/*.jpg
 **/final dataset/normal/*.jpg
 **/final dataset/normal/*.png
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Temporary files
+*.log
+*.tmp
+
+# Large model files (use external hosting)
+*.h5
+*.hdf5
+*.pkl
+*.pt
+*.pth
