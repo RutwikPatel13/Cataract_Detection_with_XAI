@@ -39,3 +39,5 @@ Thumbs.db
 *.pkl
 *.pt
 *.pth
+# Launch video output
+brag-output/
